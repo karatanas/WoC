@@ -1,0 +1,165 @@
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\PartyInvites.dll.config
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\PartyInvites.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\PartyInvites.pdb
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\csc.exe
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\csc.exe.config
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\csc.rsp
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\csi.exe
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\csi.rsp
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\System.AppContext.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\vbc.exe
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\vbc.exe.config
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\vbc.rsp
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\VBCSCompiler.exe
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\System.Web.Helpers.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\System.Web.Mvc.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\System.Web.Razor.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\System.Web.Webpages.Deployment.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\System.Web.Webpages.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\System.Web.Webpages.Razor.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\System.Web.Razor.xml
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\System.Web.Webpages.xml
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\System.Web.Webpages.Deployment.xml
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\System.Web.Webpages.Razor.xml
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\System.Web.Helpers.xml
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\System.Web.Mvc.xml
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\ru\System.Web.Razor.resources.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\obj\Debug\PartyInvites.csproj.CoreCompileInputs.cache
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\obj\Debug\PartyInvites.csproj.CopyComplete
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\obj\Debug\PartyInvites.dll
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\obj\Debug\PartyInvites.pdb
+C:\Users\kkara\source\repos\PartyInvites\PartyInvites\obj\Debug\PartyInvites.csprojResolveAssemblyReference.cache
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\PartyInvites.dll.config
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\PartyInvites.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\PartyInvites.pdb
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\csc.exe
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\csc.exe.config
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\csc.rsp
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\csi.exe
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\csi.rsp
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\System.AppContext.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\vbc.exe
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\vbc.exe.config
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\vbc.rsp
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\VBCSCompiler.exe
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\System.Web.Helpers.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\System.Web.Mvc.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\System.Web.Razor.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\System.Web.Webpages.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\System.Web.Webpages.Razor.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\System.Web.Razor.xml
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\System.Web.Webpages.xml
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\System.Web.Webpages.Razor.xml
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\System.Web.Helpers.xml
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\System.Web.Mvc.xml
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\obj\Debug\PartyInvites.csprojAssemblyReference.cache
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\obj\Debug\PartyInvites.csproj.CoreCompileInputs.cache
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\obj\Debug\PartyInvites.csproj.CopyComplete
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\obj\Debug\PartyInvites.dll
+C:\Users\Арнольд\Downloads\PartyInvites\PartyInvites\obj\Debug\PartyInvites.pdb
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\PartyInvites.dll.config
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\PartyInvites.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\PartyInvites.pdb
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\csc.exe
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\csc.exe.config
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\csc.rsp
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\csi.exe
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\csi.rsp
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\System.AppContext.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\vbc.exe
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\vbc.exe.config
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\vbc.rsp
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\VBCSCompiler.exe
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\System.Web.Helpers.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\System.Web.Mvc.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\System.Web.Razor.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\System.Web.Webpages.Deployment.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\System.Web.Webpages.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\System.Web.Webpages.Razor.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\System.Web.Razor.xml
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\System.Web.Webpages.xml
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\System.Web.Webpages.Deployment.xml
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\System.Web.Webpages.Razor.xml
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\System.Web.Helpers.xml
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\System.Web.Mvc.xml
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\ru\System.Web.Razor.resources.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\obj\Debug\PartyInvites.csprojResolveAssemblyReference.cache
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\obj\Debug\PartyInvites.csproj.CoreCompileInputs.cache
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\obj\Debug\PartyInvites.csproj.CopyComplete
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\obj\Debug\PartyInvites.dll
+C:\Users\kkara\OneDrive\Рабочий стол\PartyInvites\PartyInvites\obj\Debug\PartyInvites.pdb
